@@ -20,7 +20,6 @@
     "jsx": "react-jsx",
     "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "erasableSyntaxOnly": false,
     "noFallthroughCasesInSwitch": true
   },
   "include": [
